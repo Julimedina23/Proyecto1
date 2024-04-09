@@ -10,3 +10,8 @@ table, th, td {
     border: 1px solid red ;
     border-collapse:collapse;
 }
+h3 {
+    color: brown;
+    border: 1px solid teal;
+    background-color: aliceblue;
+}
